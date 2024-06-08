@@ -1,0 +1,78 @@
+{
+  "name": "CHI-CreatePaymentOrder-PerformerBot",
+  "projectId": "8510b5dd-4447-45fa-bb94-d522dd06e029",
+  "description": "",
+  "main": "Main.xaml",
+  "dependencies": {
+    "SMSNotify": "[1.0.3]",
+    "UiPath.Database.Activities": "[1.7.0]",
+    "UiPath.Mail.Activities": "[1.22.2]",
+    "UiPath.System.Activities": "[23.10.3]",
+    "UiPath.UIAutomation.Activities": "[23.4.4]",
+    "UiPath.WebAPI.Activities": "[1.20.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.4.1.0",
+  "projectVersion": "1.0.4",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": [
+        "Processes/ServiceDesk/UpdateTicket.xaml",
+        "Processes/Notify/Mail/BodyPreparation/PerpareSuccessRESETPassword.xaml"
+      ]
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "8f2ca004-674c-4aeb-8a92-4de5ec644bb8",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Processes\\Notify\\Mail\\Outlook\\Send.xaml",
+      "uniqueId": "890ac851-9209-41dd-96ff-b98a5d5ac47b",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Processes\\Notify\\SMS\\CEQUENS\\SendSMS.xaml",
+      "uniqueId": "2b58cc87-b612-400f-9888-b1feede43d0d",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

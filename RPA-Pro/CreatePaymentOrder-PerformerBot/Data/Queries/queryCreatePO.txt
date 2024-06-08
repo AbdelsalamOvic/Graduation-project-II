@@ -1,0 +1,1 @@
+insert into PaymentOrders(companyName,companyAddress,companyPhone,customerID,customerName,customerPhone,customerEmailAddress,InvoiceNumber,InvoiceDate,InvoiceTotalAmount) values (N'TOKEN0',N'TOKEN1',N'TOKEN2',N'TOKEN3',N'TOKEN4',N'TOKEN5',N'TOKEN6',N'TOKEN7',N'TOKEN8',N'TOKEN9')

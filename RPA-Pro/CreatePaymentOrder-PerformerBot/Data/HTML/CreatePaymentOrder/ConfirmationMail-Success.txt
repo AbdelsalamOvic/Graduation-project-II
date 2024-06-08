@@ -1,0 +1,17 @@
+﻿<p style="text-align: center;"><img src="data:image/png;base64,TOKEN0 class=" /></p>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="color: #339966;"><strong>Hello</strong></span>, <strong>TOKEN1</strong></p>
+<p style="text-align: center;">Here is, <strong>TOKEN2</strong></p>
+<p style="text-align: justify;">Regarding <em><span style="text-decoration: underline;">Create Payment Order Request</span></em> <strong>Processing</strong>, it has been processed successfully and PO is created for the next informations, kindly check below.</p>
+<hr />
+<p>TOKEN3</p>
+<hr />
+<h3 style="text-align: center;"><em><strong>Request Reference Number</strong></em></h3>
+<p style="text-align: center;"><strong> TOKEN4</strong></p>
+<hr />
+<p style="text-align: center;"><strong>Thanks</strong></p>
+<h6 style="text-align: left;"><strong>Powered By: <span style="color: #0000ff;">CHI - Team</span></strong></h6>
+<h6 style="text-align: left;"><strong>Service name: <span style="color: #339966;">RPA - Create Payment Order -&nbsp; Request</span></strong></h6>
+<h6 style="text-align: left;"><span style="color: #ff0000;"><strong>Do not reply it is automated mail</strong></span></h6>

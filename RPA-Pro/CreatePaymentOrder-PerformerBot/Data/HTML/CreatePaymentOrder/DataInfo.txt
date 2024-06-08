@@ -1,0 +1,42 @@
+<table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
+<tbody>
+<tr style="height: 18px; background-color: #a9d08e;">
+<td style="width: 33.3334%; height: 18px;" colspan="2"><strong><span style="color: #ffffff;">Company Info.</span></strong></td>
+<td style="width: 33.3334%; height: 18px;" colspan="2"><strong><span style="color: #ffffff;">Customer Info.</span></strong></td>
+<td style="width: 33.3334%; height: 18px;" colspan="2"><strong><span style="color: #ffffff;">Invoice Info.</span></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 16.6667%; height: 18px;"><strong>Name</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN0</td>
+<td style="width: 14.6982%; height: 18px;"><strong>ID</strong></td>
+<td style="width: 18.6352%; height: 18px;">TOKEN3</td>
+<td style="width: 16.6667%; height: 18px;"><strong>Number</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN7</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 16.6667%; height: 18px;"><strong>Address</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN1</td>
+<td style="width: 14.6982%; height: 18px;"><strong>Name</strong></td>
+<td style="width: 18.6352%; height: 18px;">TOKEN4</td>
+<td style="width: 16.6667%; height: 18px;"><strong>Date</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN8</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 16.6667%; height: 18px;"><strong>Phone</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN2</td>
+<td style="width: 14.6982%; height: 18px;"><strong>Phone</strong></td>
+<td style="width: 18.6352%; height: 18px;">TOKEN5</td>
+<td style="width: 16.6667%; height: 18px;"><strong>Total</strong></td>
+<td style="width: 16.6667%; height: 18px;">TOKEN9</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 16.6667%; height: 18px;">&nbsp;</td>
+<td style="width: 16.6667%; height: 18px;">&nbsp;</td>
+<td style="width: 14.6982%; height: 18px;"><strong>Email Address</strong></td>
+<td style="width: 18.6352%; height: 18px;">TOKEN6</td>
+<td style="width: 16.6667%; height: 18px;">&nbsp;</td>
+<td style="width: 16.6667%; height: 18px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
